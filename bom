@@ -1,0 +1,11 @@
+
+* LimeSDR case BOM
+| component          | manufacturer              | description                                          | quantity | approx price (RS components) |
+| MF40060V2-000U-A99 | Sunon                     | axial fan 40x40x6mm                                  |        1 | £8                           |
+| 374124B00035G      | Aavid Thermalloy          | BGA heatsink 23x23x18mm                              |        1 | £2                           |
+| ICK BGA 10x10x10   | Fischer Elektronik        | BGA heatsing 10x10x10mm                              |        1 | £2                           |
+| ILA-TIM-LES19-2A   | Intelligent LED Solutions | graphite adhesive pad 24x24mm                        |        2 | £5                           |
+| ASMG010X113S17     | Siretta                   | 50Ω UFL male to SMA female 100mm length 1.13mm cable |       10 | £30                          |
+| 275-018            | RS Pro                    | M6x70mm hex screw                                    |        4 | £1                           |
+| 525-919            | RS Pro                    | M6 hex nut                                           |        4 | £1                           |
+  
